@@ -1,4 +1,4 @@
-# IBIS-HY--LAB-STUDY
+# IBIS LAB STUDY
 
 이 곳은 한양대학교 경영대학 IBIS 연구실 공부자료 모음 장소입니다.
 
